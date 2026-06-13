@@ -1,0 +1,16 @@
+# Java
+target/
+*.log
+*.class
+
+# IntelliJ / Eclipse
+.idea/
+*.iml
+
+# Node
+node_modules/
+build/
+.env
+
+# OS
+.DS_Store
